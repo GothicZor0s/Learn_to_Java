@@ -7,7 +7,7 @@ package cn.zorro.test;
  *
  */
 
-public class TestConvert {
+public class LeetCode06 {
 	public static void main(String[] args) {
 		String str = convert("LEETCODEISHIRING", 4);
 		System.out.println(str);
